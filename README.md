@@ -3,7 +3,7 @@
 タイタニックのデータを用いて、LightGBMとxgboostによる学習・推論の一連の流れが行えるようにしています。
 
 ## 動作検証済み環境
-OS: MacOS Catalina
+OS: MacOS Catalina  
 python: 3.7.2
 
 # 手順
