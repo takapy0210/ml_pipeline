@@ -1,0 +1,5 @@
+SETTING:
+  MODEL_DIR_NAME: '../models/' # 学習結果の諸々を保存するディレクトリ
+  SUB_DIR_NAME: '../data/submission/' # sample提出ファイル保存ディレクトリ
+  RAW_DATA_DIR_NAME: '../data/raw/' # オリジナルデータの格納先ディレクトリ
+  FEATURE_PATH: '../data/features/' # オリジナルデータ

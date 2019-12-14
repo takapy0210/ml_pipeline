@@ -1,0 +1,12 @@
+.DS_STORE
+*.DS_Store
+*.csv
+*.tsv
+*.bz
+*.pkl
+*.pyc
+*.model
+*.png
+.ipynb_checkpoints
+!_features_memo.csv
+models/
