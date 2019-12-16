@@ -43,7 +43,7 @@ class ModelLGB(Model):
 
         else:
             watchlist = [(dtrain, 'train')]
-            self.model = lgb.train(params, dtrain, num_boost_round, evals=watchlist)
+            self.model = lgb.train(params, dtrain, num_boost_round=num_round, evals=watchlist)
             model_array.append(self.model)
 
 
